@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "6UXf5eLLlWCrR5UyjAMlz+q2FFrZbI+AaGsMK8+ym19KBL2O3bWv07QudrdQIW3r/3Dhsm7Uw/BJbUfKOCPGrQ==",
+  "success": true,
+  "projectFilePath": "/Users/alexhoha/Task3.1/Task3.1/Task3.1.csproj",
+  "expectedPackageFiles": [
+    "/Users/alexhoha/.nuget/packages/bogus/33.0.1/bogus.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
